@@ -1,0 +1,8 @@
+source_id,title,kind,fixture_locator,published_on
+F01,Atlas synthetic disclosure fixture,synthetic,data/disclosures.md#f01,2026-09-30
+F02,Beacon synthetic disclosure fixture,synthetic,data/disclosures.md#f02,2026-09-15
+F03,Cedar synthetic disclosure fixture,synthetic,data/disclosures.md#f03,2026-09-30
+F04,Delta synthetic disclosure fixture,synthetic,data/disclosures.md#f04,2026-09-30
+F05,Echo synthetic disclosure fixture,synthetic,data/disclosures.md#f05,2026-09-30
+F06,Fern synthetic disclosure fixture,synthetic,data/disclosures.md#f06,2025-01-01
+F07,Grove intentionally defective synthetic fixture,synthetic,data/disclosures.md#f07,2026-09-30

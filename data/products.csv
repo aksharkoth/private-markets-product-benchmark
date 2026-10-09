@@ -1,0 +1,9 @@
+product_id,product_name,strategy,vehicle,currency,fee_basis,liquidity,investor_segment,management_fee_pct,min_subscription,as_of,source_id
+S01,Atlas Synthetic Credit,private_credit,evergreen,USD,nav,quarterly,qualified,1.25,25000,2026-09-30,F01
+S02,Beacon Synthetic Credit,private_credit,evergreen,USD,nav,quarterly,qualified,1.50,50000,2026-09-15,F02
+S03,Cedar Synthetic Equity,private_equity,drawdown,USD,committed_capital,none,institutional,1.75,100000,2026-09-30,F03
+S04,Delta Synthetic Credit,private_credit,evergreen,EUR,nav,quarterly,qualified,1.10,25000,2026-09-30,F04
+S05,Echo Synthetic Credit,private_credit,evergreen,USD,nav,monthly,qualified,1.35,10000,2026-09-30,F05
+S06,Fern Synthetic Credit,private_credit,evergreen,USD,nav,quarterly,qualified,1.20,25000,2025-01-01,F06
+S07,Grove Synthetic Credit,private_credit,evergreen,USD,nav,quarterly,qualified,-0.20,25000,2026-09-30,F07
+S08,Harbor Synthetic Credit,private_credit,evergreen,USD,nav,quarterly,qualified,1.40,25000,2026-09-30,UNKNOWN
