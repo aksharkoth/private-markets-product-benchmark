@@ -4,15 +4,6 @@ A small independent portfolio project for investment-product research support: v
 
 **Independent-project disclaimer:** This is an educational project, not work performed for Invesco or any asset manager. It has no company affiliation, private data, credentials, completed stakeholder approvals, investment advice, or production-readiness claim. Every product and disclosure in the sample is synthetic. Similarity to any actual product name is incidental.
 
-## Role research and scope
-The supplied role research describes competitor-data collection and validation, presentations and documentation, cross-functional governance support, and product-data visualization. This project targets those responsibilities rather than investment underwriting or software-product management.
-
-Primary role references supplied with the request:
-- [Official Invesco posting, R-15545](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Early-Career-Intern---Private-Markets-Product_R-15545-1)
-- [Official early-career information](https://careers.invesco.com/early-careers/)
-
-The supplied research records retrieval on October 9, 2026. These pages were not independently retrieved or reverified during this implementation; current wording and availability remain unknown. They are role-context references, not sources for the synthetic financial data. Completing this project does not establish internship eligibility, employment experience, or company collaboration.
-
 ## Setup
 Requires Python 3.10+ with its standard library. No package installation, API keys, internet access, or credentials are needed. Save the supplied files preserving their paths and work from the project root.
 
